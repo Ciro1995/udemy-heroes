@@ -11,7 +11,4 @@ Et excepteur laboris tempor minim deserunt nostrud voluptate ullamco aliquip. Es
 
 Pueden hacer lo que quieran...
 
-### GitHub
-
-Cambios realizados en GitHub.com
 
